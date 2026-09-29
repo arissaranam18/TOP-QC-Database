@@ -1,0 +1,95 @@
+{
+  "datasetVersion": "v2026.09.29-drive",
+  "importedAt": "29 กันยายน 2026, 11:46:00 UTC+7",
+  "sourceOrigin": "Google Drive (Folder: 1MCuJo7PkeAA1-8s5j-idDuZIVDu2uU6P)",
+  "rawRecordCount": 15388,
+  "ruleSetVersion": "1.0.0-strict",
+  "activeStatus": true,
+  "sourceFiles": [
+    {
+      "fileName": "Project QC Thai Osuka (EN).xlsx",
+      "checksum": "aafb92cbcafd72a567cc915bb33e8f21a17d0577445133705fbe520ad0b53bf8",
+      "sizeBytes": 164184,
+      "sheets": [
+        {
+          "sheetName": "EN",
+          "headerRow": 2,
+          "rowCount": 3007
+        },
+        {
+          "sheetName": "Standard",
+          "headerRow": 2,
+          "rowCount": 443
+        }
+      ]
+    },
+    {
+      "fileName": "Project QC Thai Osuka (IV).xlsx",
+      "checksum": "1394beafc891f718506786b33e048aaaca5a0eeab08465c3033efcbed45dbf37",
+      "sizeBytes": 205149,
+      "sheets": [
+        {
+          "sheetName": "Product",
+          "headerRow": 1,
+          "rowCount": 3724
+        },
+        {
+          "sheetName": "Standard",
+          "headerRow": 1,
+          "rowCount": 427
+        }
+      ]
+    },
+    {
+      "fileName": "Project QC Thai Osuka (RM-1).xlsx",
+      "checksum": "19219dc7b2753b2edbeca61537c6b0273a1bc5b89ff859f323a99008abe7e897",
+      "sizeBytes": 140227,
+      "sheets": [
+        {
+          "sheetName": "Product",
+          "headerRow": 1,
+          "rowCount": 2613
+        },
+        {
+          "sheetName": "Standard",
+          "headerRow": 1,
+          "rowCount": 55
+        }
+      ]
+    },
+    {
+      "fileName": "Project QC Thai Osuka (RM-2).xlsx",
+      "checksum": "794c103635c3c37b4e3abe9d4770a45da98374e588749068b98fb300e2a6474c",
+      "sizeBytes": 159677,
+      "sheets": [
+        {
+          "sheetName": "Product",
+          "headerRow": 1,
+          "rowCount": 2924
+        },
+        {
+          "sheetName": "Standard",
+          "headerRow": 1,
+          "rowCount": 154
+        }
+      ]
+    },
+    {
+      "fileName": "Project QC Thai Osuka (RM-3).xlsx",
+      "checksum": "736939f86bf72838efa30927f094e382ec6200c566c2165a471db8a9521c9654",
+      "sizeBytes": 109351,
+      "sheets": [
+        {
+          "sheetName": "Product",
+          "headerRow": 1,
+          "rowCount": 2007
+        },
+        {
+          "sheetName": "Standard",
+          "headerRow": 1,
+          "rowCount": 34
+        }
+      ]
+    }
+  ]
+}

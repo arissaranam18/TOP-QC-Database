@@ -1,0 +1,8 @@
+{
+  "name": "TOP QC Database",
+  "description": "ค้นหาข้อมูลและคำนวณทรัพยากรสำหรับงาน QC",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
